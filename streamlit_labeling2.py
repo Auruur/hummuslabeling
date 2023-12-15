@@ -15,8 +15,8 @@ def save_label(df, ingredient, group, typo):
     
     return df
     
-sel_items = pd.read_csv('/Users/gionni/Desktop/Tirocinio/datasets/cfp_wfp_ingredients.csv', sep=';', header=0)
-ingr_unique = pd.read_csv('/Users/gionni/Desktop/Tirocinio/datasets/output_unique_cleaned.csv', sep=',', header=0)
+sel_items = pd.read_csv('cfp_wfp_ingredients.csv', sep=';', header=0)
+ingr_unique = pd.read_csv('output_unique_cleaned.csv', sep=',', header=0)
 labels_df = pd.DataFrame(columns=["INGREDIENT", "GROUP", "TYPOLOGY"])
 
 ingredients = ingr_unique['ingredient'][0:30]
