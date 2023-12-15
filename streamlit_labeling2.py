@@ -2,7 +2,6 @@ import streamlit as st
 import warnings
 warnings.filterwarnings("ignore")
 import pandas as pd
-from IPython.display import display
 
 def save_label(df, ingredient, group, typo):
     index_to_update = df.loc[df['INGREDIENT'] == ingredient].index
@@ -59,4 +58,4 @@ for index, ingredient in enumerate(ingredients):
     st.write("---")
 
 st.write("This button displays the current state of the dataframe on the host terminal")
-st.button("Display", on_click=display(labels_df))
+st.button("Display", on_click=st.write(labels_df))
