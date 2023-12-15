@@ -57,5 +57,4 @@ for index, ingredient in enumerate(ingredients):
     labels_df = save_label(labels_df, ingredient, selected_group, selected_typo)
     st.write("---")
 
-st.write("This button displays the current state of the dataframe on the host terminal")
-st.button("Display", on_click=st.write(labels_df))
+st.write(labels_df)
