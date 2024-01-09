@@ -17,7 +17,7 @@ def save_label(df, ingredient, group, typo):
     
 sel_items = pd.read_csv('cfp_wfp_ingredients.csv', sep=';', header=0)
 ingr_unique = pd.read_csv('output_unique_cleaned.csv', sep=',', header=0)
-labels_df = pd.DataFrame(columns=["INGREDIENT", "GROUP", "TYPOLOGY"])
+labels_df = pd.read_csv('labels_df.csv', sep=',')
 
 ingredients = ingr_unique['ingredient'][0:30]
 sel_groups = ["AGRICULTURAL PROCESSED", "ANIMAL HUSBANDRY", "CROPS", "FISHING", "NONE"]
@@ -57,4 +57,6 @@ for index, ingredient in enumerate(ingredients):
     labels_df = save_label(labels_df, ingredient, selected_group, selected_typo)
     st.write("---")
 
+if st.button("Submit changes"):
+    labels_df.to_csv('labels_df.csv', index=False)
 st.write(labels_df)
