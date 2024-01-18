@@ -1,0 +1,3770 @@
+[
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "ALMOND COVERED WITH CHOCOLATE",
+    "Typology": "NUTS COVERED WITH CHOCOLATE",
+    "Sub-typology": "-",
+    "Cfp": "4,12",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "ALMOND MILK",
+    "Typology": "VEGETAL MILK",
+    "Sub-typology": "-",
+    "Cfp": "0,54",
+    "Wfp": 2030
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "ALMOND PASTE",
+    "Typology": "NUTS PASTE",
+    "Sub-typology": "-",
+    "Cfp": "1,84",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "APPLE JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1140
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "AZUKI BEAN FLOUR",
+    "Typology": "LEGUME FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "1,32",
+    "Wfp": 2523
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BARLEY FLAKES",
+    "Typology": "BREAKFAST CEREALS",
+    "Sub-typology": "-",
+    "Cfp": "2,64",
+    "Wfp": 1977
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BEANS (F)",
+    "Typology": "LEGUMES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,26",
+    "Wfp": 801
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BEANS IN CAN",
+    "Typology": "LEGUMES CANNED",
+    "Sub-typology": "-",
+    "Cfp": "0,78",
+    "Wfp": "555,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BEER IN CAN",
+    "Typology": "BEER",
+    "Sub-typology": "-",
+    "Cfp": "0,69",
+    "Wfp": 155
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BEER IN GLASS",
+    "Typology": "BEER",
+    "Sub-typology": "-",
+    "Cfp": "0,96",
+    "Wfp": 155
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BEER MODULAR CAN",
+    "Typology": "BEER",
+    "Sub-typology": "-",
+    "Cfp": "0,53",
+    "Wfp": 155
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BEER*",
+    "Typology": "BEER*",
+    "Sub-typology": "-",
+    "Cfp": "0,69",
+    "Wfp": 155
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BEET SUGAR",
+    "Typology": "SUGAR",
+    "Sub-typology": "-",
+    "Cfp": "0,94",
+    "Wfp": 865
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BLUEBERRY JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BREAD",
+    "Typology": "BREAD",
+    "Sub-typology": "-",
+    "Cfp": "0,86",
+    "Wfp": 667
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BREAD FROZEN (F)*",
+    "Typology": "BREAD FROZEN* (rolls frozen)",
+    "Sub-typology": "-",
+    "Cfp": "1,31",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BREAD MULTICEREAL**",
+    "Typology": "BREAD",
+    "Sub-typology": "-",
+    "Cfp": "0,86",
+    "Wfp": 902
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BREAD PLAIN**",
+    "Typology": "BREAD",
+    "Sub-typology": "-",
+    "Cfp": "0,89",
+    "Wfp": 1031
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BREAD WHOLE**",
+    "Typology": "BREAD",
+    "Sub-typology": "-",
+    "Cfp": "0,77",
+    "Wfp": 887
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "BUCKWHEAT FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CAKES AND CROISSANT**",
+    "Typology": "SWEETS",
+    "Sub-typology": "-",
+    "Cfp": "2,14",
+    "Wfp": 1640
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CANE MOLASSE",
+    "Typology": "SUGAR",
+    "Sub-typology": "-",
+    "Cfp": "0,78",
+    "Wfp": 527
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CANE SUGAR",
+    "Typology": "SUGAR",
+    "Sub-typology": "-",
+    "Cfp": "0,62",
+    "Wfp": 1724
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CARROTS (F)",
+    "Typology": "VEGETABLES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": "750,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CARROTS CANNED",
+    "Typology": "VEGETABLES CANNED",
+    "Sub-typology": "-",
+    "Cfp": "1,48",
+    "Wfp": "806,6"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CHOCOLATE",
+    "Typology": "ICE CREAM",
+    "Sub-typology": "-",
+    "Cfp": "4,30",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CHOCOLATE OR CREAM FILLED COOKIES**",
+    "Typology": "BISCUITS",
+    "Sub-typology": "-",
+    "Cfp": "1,53",
+    "Wfp": 2902
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COCOA BUTTER",
+    "Typology": "COCOA DERIVATES",
+    "Sub-typology": "-",
+    "Cfp": "3,16",
+    "Wfp": 33938
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COCOA CAKES AND CROISSANT**",
+    "Typology": "SWEETS",
+    "Sub-typology": "-",
+    "Cfp": "1,94",
+    "Wfp": 3468
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COCOA PASTE",
+    "Typology": "COCOA DERIVATES",
+    "Sub-typology": "-",
+    "Cfp": "3,16",
+    "Wfp": 24238
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COCOA POWDER",
+    "Typology": "COCOA DERIVATES",
+    "Sub-typology": "-",
+    "Cfp": "3,16",
+    "Wfp": 15618
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COCONUT MILK",
+    "Typology": "VEGETAL MILK",
+    "Sub-typology": "-",
+    "Cfp": "0,54",
+    "Wfp": 2030
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COCONUT OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "2,11",
+    "Wfp": 4490
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE DRIP FILTERED (L)",
+    "Typology": "COFFEE LIQUID",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 960
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE GROUND",
+    "Typology": "COFFEE GROUND & PARCHMENT",
+    "Sub-typology": "-",
+    "Cfp": "6,71",
+    "Wfp": 19956
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE PARCHMENT",
+    "Typology": "COFFEE GROUND & PARCHMENT",
+    "Sub-typology": "-",
+    "Cfp": "8,29",
+    "Wfp": 19956
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE ROASTED",
+    "Typology": "COFFEE GROUND & PARCHMENT* (coffee roasted)",
+    "Sub-typology": "-",
+    "Cfp": "6,71",
+    "Wfp": 19956
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE SOLUBLE",
+    "Typology": "COFFEE LIQUID",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 960
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE SOLUBLE POWDER (L)",
+    "Typology": "COFFEE LIQUID",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 960
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE STANDARD",
+    "Typology": "COFFEE LIQUID",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 960
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE STRONG",
+    "Typology": "COFFEE LIQUID",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 960
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "COFFEE WEAK",
+    "Typology": "COFFEE LIQUID",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 960
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CORN CANNED",
+    "Typology": "VEGETABLES CANNED",
+    "Sub-typology": "-",
+    "Cfp": "1,48",
+    "Wfp": 807
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CORNFLAKES*",
+    "Typology": "BREAKFAST CEREALS* (cornflakes)",
+    "Sub-typology": "-",
+    "Cfp": "2,64",
+    "Wfp": "2196,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CRANBERRY JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "CRISPBREAD**",
+    "Typology": "CRISPBREAD**",
+    "Sub-typology": "-",
+    "Cfp": "1,35",
+    "Wfp": 1423
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "DARK CHOCOLATE",
+    "Typology": "CHOCOLATE",
+    "Sub-typology": "-",
+    "Cfp": "3,16",
+    "Wfp": 20717
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "DRIED CASSAVA",
+    "Typology": "STARCHY TUBER",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 1610
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "DURUM WHEAT",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,47",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "EGG PASTA*",
+    "Typology": "EGG PASTA*",
+    "Sub-typology": "-",
+    "Cfp": "3,15",
+    "Wfp": 4637
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "ESPRESSO (L)",
+    "Typology": "COFFEE LIQUID",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 960
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "FIG JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "FLAVORED CRACKERS**",
+    "Typology": "CRACKERS",
+    "Sub-typology": "-",
+    "Cfp": "0,93",
+    "Wfp": 1378
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "FRUCTOSE",
+    "Typology": "SUGAR",
+    "Sub-typology": "-",
+    "Cfp": "0,78",
+    "Wfp": 1782
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "GRAHAM FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "GRAPEFRUIT JUICE",
+    "Typology": "JUICE",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 675
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "GREEN BEANS (F)",
+    "Typology": "LEGUMES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,26",
+    "Wfp": "555,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "GREEN BEANS IN CAN",
+    "Typology": "LEGUMES CANNED",
+    "Sub-typology": "-",
+    "Cfp": "0,78",
+    "Wfp": "555,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "HAZELNUT COVERED WITH CHOCOLATE",
+    "Typology": "NUTS COVERED WITH CHOCOLATE",
+    "Sub-typology": "-",
+    "Cfp": "4,12",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "HAZELNUT CREAM",
+    "Typology": "NUTS PASTE",
+    "Sub-typology": "-",
+    "Cfp": "1,84",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "HAZELNUT PASTE",
+    "Typology": "NUTS PASTE",
+    "Sub-typology": "-",
+    "Cfp": "1,84",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "ICE CREAM",
+    "Typology": "ICE CREAM",
+    "Sub-typology": "-",
+    "Cfp": "4,30",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "KETCHUP",
+    "Typology": "DRESSING",
+    "Sub-typology": "-",
+    "Cfp": "1,46",
+    "Wfp": 534
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "KIWI JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "LINSEED OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "2,11",
+    "Wfp": 9415
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MAIZE FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MAIZE FLOUR & MEAL",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": 1167
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MAIZE GROATS",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 1081
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MAIZE HULLED, PEARLED, SLICED OR KIBBLED",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 1314
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MAIZE OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "2,11",
+    "Wfp": 2575
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MALT",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 1950
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MALT, ROASTED",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 2437
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MANGO JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MARGARINE*",
+    "Typology": "MARGARINE*",
+    "Sub-typology": "-",
+    "Cfp": "1,39",
+    "Wfp": 1324
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MAYONNAISE",
+    "Typology": "DRESSING",
+    "Sub-typology": "-",
+    "Cfp": "1,46",
+    "Wfp": 572
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MILK CHOCOLATE",
+    "Typology": "CHOCOLATE",
+    "Sub-typology": "-",
+    "Cfp": "3,16",
+    "Wfp": 20717
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MILLET FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MINERAL WATER*",
+    "Typology": "BOTTLED WATER* (mineral water)",
+    "Sub-typology": "-",
+    "Cfp": "0,49",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MIXED VEGETABLES (F)",
+    "Typology": "VEGETABLES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 339
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "MUNG BEAN FLOUR",
+    "Typology": "LEGUME FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "1,32",
+    "Wfp": 2523
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "OAT FLAKES",
+    "Typology": "BREAKFAST CEREALS",
+    "Sub-typology": "-",
+    "Cfp": "2,64",
+    "Wfp": 2416
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "OAT GROATS",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 2536
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "OAT MEAL",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": 2536
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "OLIVE OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "3,27",
+    "Wfp": 14415
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "OLIVE OIL REFINED",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "2,11",
+    "Wfp": 14726
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "ORANGE JUICE",
+    "Typology": "FRUIT JUICE LOCAL",
+    "Sub-typology": "-",
+    "Cfp": "0,46",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PALM OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "2,43",
+    "Wfp": 4971
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PASTA*",
+    "Typology": "PASTA*",
+    "Sub-typology": "-",
+    "Cfp": "1,21",
+    "Wfp": 1508
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PEANUT BUTTER",
+    "Typology": "NUTS PASTE",
+    "Sub-typology": "-",
+    "Cfp": "1,84",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PEANUT OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "2,11",
+    "Wfp": 7529
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PEANUT PASTE",
+    "Typology": "NUTS PASTE",
+    "Sub-typology": "-",
+    "Cfp": "1,84",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PEAR JUICE",
+    "Typology": "FRUIT JUICE LOCAL",
+    "Sub-typology": "-",
+    "Cfp": "0,48",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PEAS (F)",
+    "Typology": "VEGETABLES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 850
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PESTO",
+    "Typology": "PESTO",
+    "Sub-typology": "-",
+    "Cfp": "2,72",
+    "Wfp": 2174
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PESTO WITHOUT GARLIC",
+    "Typology": "PESTO",
+    "Sub-typology": "-",
+    "Cfp": "2,72",
+    "Wfp": 2174
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PINEAPPLE JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1273
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "PLAIN CRACKERS**",
+    "Typology": "CRACKERS",
+    "Sub-typology": "-",
+    "Cfp": "1,35",
+    "Wfp": 1447
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "POTATO FLAKES",
+    "Typology": "STARCHY TUBER",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 1044
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "POTATOES (F)",
+    "Typology": "VEGETABLES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 575
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "QUORNE",
+    "Typology": "VEGETAL PROTEINS",
+    "Sub-typology": "-",
+    "Cfp": "2,27",
+    "Wfp": 1724
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "RAPESEED OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "1,79",
+    "Wfp": 4301
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "RASPBERRIES (F)*",
+    "Typology": "FRUIT FROZEN* (raspberry)",
+    "Sub-typology": "-",
+    "Cfp": "1,18",
+    "Wfp": 748
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "RICE FLOUR & MEAL",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": 2429
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "RICE GROATS",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 2230
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "RICE MILK",
+    "Typology": "VEGETAL MILK",
+    "Sub-typology": "-",
+    "Cfp": "0,54",
+    "Wfp": 2030
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "RYE FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": 1930
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SESAM OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "2,11",
+    "Wfp": 21793
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SIMPLE COOKIES**",
+    "Typology": "BISCUITS",
+    "Sub-typology": "-",
+    "Cfp": "1,39",
+    "Wfp": 1723
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SORGHUM FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOY BURGER",
+    "Typology": "VEGETAL PROTEINS",
+    "Sub-typology": "-",
+    "Cfp": "2,27",
+    "Wfp": 1053
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOY CREAM*",
+    "Typology": "VEGETAL CREAM* (soy cream)",
+    "Sub-typology": "-",
+    "Cfp": "1,62",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOY MEAL",
+    "Typology": "LEGUME FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "1,32",
+    "Wfp": 2523
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOY MILK",
+    "Typology": "VEGETAL MILK",
+    "Sub-typology": "-",
+    "Cfp": "0,78",
+    "Wfp": 2030
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOY PASTE",
+    "Typology": "DRESSING",
+    "Sub-typology": "-",
+    "Cfp": "1,46",
+    "Wfp": 572
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOY SAUCE",
+    "Typology": "DRESSING",
+    "Sub-typology": "-",
+    "Cfp": "1,46",
+    "Wfp": 613
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOY YOGURT*",
+    "Typology": "VEGETAL YOGURT (soy yogurt)",
+    "Sub-typology": "-",
+    "Cfp": "1,36",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOYBEAN FLOUR",
+    "Typology": "LEGUME FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "1,32",
+    "Wfp": 2523
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SOYBEAN OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "1,79",
+    "Wfp": 4190
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SPINACH (F)",
+    "Typology": "VEGETABLES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 834
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "STRAWBERRY JUICE (I)",
+    "Typology": "FRUIT JUICE (imported ingredients)",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 1019
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SUNFLOWER OIL",
+    "Typology": "OIL",
+    "Sub-typology": "-",
+    "Cfp": "0,98",
+    "Wfp": 6792
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "SWEET CORN (F)",
+    "Typology": "VEGETABLES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 700
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TAPIOCA OF CASSAVA",
+    "Typology": "STARCHY TUBER",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 2818
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TAPIOCA OF POTATOES",
+    "Typology": "STARCHY TUBER",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 1436
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TEMPE'",
+    "Typology": "DRESSING",
+    "Sub-typology": "-",
+    "Cfp": "1,46",
+    "Wfp": 572
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOFU",
+    "Typology": "VEGETAL PROTEINS",
+    "Sub-typology": "-",
+    "Cfp": "2,27",
+    "Wfp": 1724
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOMATO & BASIL",
+    "Typology": "TOMATO SAUCE",
+    "Sub-typology": "-",
+    "Cfp": "1,14",
+    "Wfp": 147
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOMATO ARRABBIATA",
+    "Typology": "TOMATO SAUCE",
+    "Sub-typology": "-",
+    "Cfp": "1,24",
+    "Wfp": 155
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOMATO CHOPPED",
+    "Typology": "TOMATO PUREE,PEELED, CHOPPED",
+    "Sub-typology": "-",
+    "Cfp": "1,47",
+    "Wfp": 713
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOMATO JUICE",
+    "Typology": "JUICE",
+    "Sub-typology": "-",
+    "Cfp": "2,86",
+    "Wfp": 267
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOMATO PASTE",
+    "Typology": "TOMATO PUREE,PEELED, CHOPPED",
+    "Sub-typology": "-",
+    "Cfp": "1,30",
+    "Wfp": 855
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOMATO PEELED",
+    "Typology": "TOMATO PUREE,PEELED, CHOPPED",
+    "Sub-typology": "-",
+    "Cfp": "1,3",
+    "Wfp": 267
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "TOMATO PUREE",
+    "Typology": "TOMATO PUREE,PEELED, CHOPPED",
+    "Sub-typology": "-",
+    "Cfp": "1,03",
+    "Wfp": 713
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "VANILLA",
+    "Typology": "ICE CREAM",
+    "Sub-typology": "-",
+    "Cfp": "4,30",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WHEAT FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": 1849
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WHEAT GLUTEN",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 4189
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WHEAT PELLETS",
+    "Typology": "PROCESSED GRAINS (grouts, malt)",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 2036
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WHEAT PLAIN FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WHOLE WHEAT FLOUR",
+    "Typology": "GRAIN FLOUR",
+    "Sub-typology": "-",
+    "Cfp": "0,36",
+    "Wfp": "1889,5"
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WHOLEGRAIN CRACKERS**",
+    "Typology": "CRACKERS",
+    "Sub-typology": "-",
+    "Cfp": "0,97",
+    "Wfp": 617
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WINE RED",
+    "Typology": "WINE",
+    "Sub-typology": "-",
+    "Cfp": "0,87",
+    "Wfp": 524
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WINE WHITE",
+    "Typology": "WINE",
+    "Sub-typology": "-",
+    "Cfp": "0,66",
+    "Wfp": 524
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "WINE*",
+    "Typology": "WINE*",
+    "Sub-typology": "-",
+    "Cfp": "0,66",
+    "Wfp": 524
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "YEAST COMPRESSED*",
+    "Typology": "YEAST COMPRESSED*",
+    "Sub-typology": "-",
+    "Cfp": "0,82",
+    "Wfp": 51
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "YEAST DRIED*",
+    "Typology": "YEAST DRIED*",
+    "Sub-typology": "-",
+    "Cfp": "3,29",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "YEAST LIQUID*",
+    "Typology": "YEAST LIQUID*",
+    "Sub-typology": "-",
+    "Cfp": "0,50",
+    "Wfp": ""
+  },
+  {
+    "Group": "AGRICULTURAL PROCESSED",
+    "Item": "ZUCCHINI (F)",
+    "Typology": "VEGETABLES FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": "750,5"
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "ASIAGO",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "BACON",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 6116
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "BEEF BONE FREE MEAT*",
+    "Typology": "BEEF BONE FREE MEAT*",
+    "Sub-typology": "",
+    "Cfp": "25,75",
+    "Wfp": 15139
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "BEEF MEAT WITH BONE*",
+    "Typology": "BEEF MEAT WITH BONE*",
+    "Sub-typology": "-",
+    "Cfp": "17,96",
+    "Wfp": 10943
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "BUFFALO BONE FREE MEAT*",
+    "Typology": "BUFFALO BONE FREE MEAT*",
+    "Sub-typology": "-",
+    "Cfp": "78,80",
+    "Wfp": ""
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "BUFFALO MILK",
+    "Typology": "MILK",
+    "Sub-typology": "-",
+    "Cfp": "3,57",
+    "Wfp": 1599
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "BUTTER*",
+    "Typology": "BUTTER*",
+    "Sub-typology": "-",
+    "Cfp": "8,48",
+    "Wfp": 5659
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "BUTTERED MILK",
+    "Typology": "MILK",
+    "Sub-typology": "-",
+    "Cfp": "1,44",
+    "Wfp": 1599
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CAMEMBERT",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CEDDAR",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "11,21",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CHEESE",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "8,93",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CHEESE BLUE-VEINED",
+    "Typology": "CHEESE",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5060
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CHEESE GRATED",
+    "Typology": "CHEESE",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5060
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CHEESE SEMI-HARD",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CHICKEN BONE FREE MEAT",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "3,68",
+    "Wfp": 3960
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CHICKEN MEAT WITH BONE",
+    "Typology": "POULTRY MEAT WITH BONE",
+    "Sub-typology": "-",
+    "Cfp": "2,82",
+    "Wfp": 3330
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "COW MILK",
+    "Typology": "MILK",
+    "Sub-typology": "-",
+    "Cfp": "1,31",
+    "Wfp": "1260,5"
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CREAM",
+    "Typology": "CHEESE FRESH",
+    "Sub-typology": "-",
+    "Cfp": "5,45",
+    "Wfp": 3838
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CURED HAM BONE FREE",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 6177
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CURED HAM WITH BONE",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 5798
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CURED PORK BONE FREE",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 6238
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "CURED SHOULDERS WITH BONE",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 5798
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "DUCK BONE FREE MEAT",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "3,88",
+    "Wfp": 4325
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "DUCK MEAT BONE FREE*",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "3,88",
+    "Wfp": 4325
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "DUCK MEAT WITH BONE*",
+    "Typology": "POULTRY MEAT WITH BONE",
+    "Sub-typology": "-",
+    "Cfp": "2,13",
+    "Wfp": "3330,3"
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "EGG YOLKS",
+    "Typology": "EGGS & DERIVATES",
+    "Sub-typology": "-",
+    "Cfp": "3,20",
+    "Wfp": 3270
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "EGGS SHELLED",
+    "Typology": "EGGS & DERIVATES",
+    "Sub-typology": "-",
+    "Cfp": "3,20",
+    "Wfp": 3632
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "EGGS*",
+    "Typology": "EGGS*",
+    "Sub-typology": "-",
+    "Cfp": "3,20",
+    "Wfp": 2562
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "EMMENTAL",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "EMU BONE FREE MEAT",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "3,88",
+    "Wfp": 4325
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "FRESH HAM WITH BONE",
+    "Typology": "PORK MEAT WITH BONE",
+    "Sub-typology": "-",
+    "Cfp": "3,44",
+    "Wfp": 5677
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "FRESH SHOULDERS WITH BONE",
+    "Typology": "PORK MEAT WITH BONE",
+    "Sub-typology": "-",
+    "Cfp": "3,44",
+    "Wfp": 5677
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "GOAT CHEESE",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "GOAT MILK",
+    "Typology": "MILK",
+    "Sub-typology": "-",
+    "Cfp": "1,44",
+    "Wfp": 1599
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "GOOSE BONE FREE MEAT",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "3,88",
+    "Wfp": 4325
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "GRAN MORAVIA",
+    "Typology": "CHEESE",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "GRANA PADANO",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "GUINEA BONE FREE MEAT",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "3,88",
+    "Wfp": 4325
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "HARD AND SEMI-HARD CHEESE",
+    "Typology": "CHEESE",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "HONEY*",
+    "Typology": "HONEY*",
+    "Sub-typology": "-",
+    "Cfp": "1,74",
+    "Wfp": ""
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "KANGAROO MEAT*",
+    "Typology": "KANGAROO MEAT*",
+    "Sub-typology": "-",
+    "Cfp": "4,10",
+    "Wfp": ""
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "KEPHIR",
+    "Typology": "MILK",
+    "Sub-typology": "-",
+    "Cfp": "1,44",
+    "Wfp": 1599
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "LAMB BONE FREE MEAT*",
+    "Typology": "LAMB BONE FREE MEAT*",
+    "Sub-typology": "-",
+    "Cfp": "25,23",
+    "Wfp": 10412
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "LAMB MEAT WITH BONE*",
+    "Typology": "LAMB MEAT WITH BONE*",
+    "Sub-typology": "-",
+    "Cfp": "16,70",
+    "Wfp": 4362
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "MASCARPONE",
+    "Typology": "CHEESE FRESH",
+    "Sub-typology": "-",
+    "Cfp": "5,45",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "MEALWORMS*",
+    "Typology": "EDIBLE INSECTS* (mealworms)",
+    "Sub-typology": "-",
+    "Cfp": "2,84",
+    "Wfp": 4341
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "MILK ACID",
+    "Typology": "MILK",
+    "Sub-typology": "-",
+    "Cfp": "1,44",
+    "Wfp": 1599
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "MILK CREAMY",
+    "Typology": "MILK",
+    "Sub-typology": "-",
+    "Cfp": "1,44",
+    "Wfp": 1898
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "MOZZARELLA",
+    "Typology": "CHEESE FRESH",
+    "Sub-typology": "-",
+    "Cfp": "8,20",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "NECK",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 6177
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "PARMIGIANO REGGIANO",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "PECORINO",
+    "Typology": "CHEESE HARD & SEMI-HARD",
+    "Sub-typology": "-",
+    "Cfp": "9,59",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "PORK BONE FREE MEAT*",
+    "Typology": "PORK BONE FREE MEAT*",
+    "Sub-typology": "-",
+    "Cfp": "5,72",
+    "Wfp": 6299
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "PORK CUTS WITH BONE",
+    "Typology": "PORK MEAT WITH BONE",
+    "Sub-typology": "-",
+    "Cfp": "3,44",
+    "Wfp": 5798
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "PORK HAM",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "7,95",
+    "Wfp": 6177
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "PORK MEAT WITH BONE*",
+    "Typology": "PORK MEAT WITH BONE*",
+    "Sub-typology": "-",
+    "Cfp": "3,44",
+    "Wfp": 4361
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "PORK SAUSAGES",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 6177
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "RABBIT MEAT WITH BONE*",
+    "Typology": "RABBIT MEAT WITH BONE*",
+    "Sub-typology": "-",
+    "Cfp": "4,31",
+    "Wfp": ""
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "RICOTTA",
+    "Typology": "CHEESE FRESH",
+    "Sub-typology": "-",
+    "Cfp": "5,45",
+    "Wfp": "2470,5"
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "SAUSAGES",
+    "Typology": "PORK CURED MEAT",
+    "Sub-typology": "-",
+    "Cfp": "5,99",
+    "Wfp": 6177
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "SNAILS*",
+    "Typology": "SNAILS*",
+    "Sub-typology": "-",
+    "Cfp": "0,73",
+    "Wfp": ""
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "STRACCHINO",
+    "Typology": "CHEESE FRESH",
+    "Sub-typology": "-",
+    "Cfp": "5,45",
+    "Wfp": 5253
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "TURKEY BONE FREE MEAT",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "3,88",
+    "Wfp": 4325
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "TURKEY MEAT BONE FREE",
+    "Typology": "POULTRY BONE FREE MEAT",
+    "Sub-typology": "-",
+    "Cfp": "4,08",
+    "Wfp": 4325
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "TURKEY MEAT WITH BONE",
+    "Typology": "POULTRY MEAT WITH BONE",
+    "Sub-typology": "-",
+    "Cfp": "2,13",
+    "Wfp": "3330,3"
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "YOGURT FLAVORED",
+    "Typology": "YOGURT",
+    "Sub-typology": "-",
+    "Cfp": "2,55",
+    "Wfp": 1540
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "YOGURT FLAVOURED**",
+    "Typology": "YOGURT",
+    "Sub-typology": "-",
+    "Cfp": "2,85",
+    "Wfp": 1540
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "YOGURT LACTOSE FREE",
+    "Typology": "YOGURT",
+    "Sub-typology": "-",
+    "Cfp": "3,47",
+    "Wfp": 1540
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "YOGURT WHITE",
+    "Typology": "YOGURT",
+    "Sub-typology": "-",
+    "Cfp": "1,69",
+    "Wfp": 1540
+  },
+  {
+    "Group": "ANIMAL HUSBANDRY",
+    "Item": "YOGURT WHITE LACTOSE FREE",
+    "Typology": "YOGURT",
+    "Sub-typology": "-",
+    "Cfp": "2,55",
+    "Wfp": 1040
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ALMOND",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "1,88",
+    "Wfp": 11264
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ALMOND SHELLED",
+    "Typology": "NUTS SHELLED",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 16095
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ALMOND WITH SHELL",
+    "Typology": "NUTS WITH SHELL",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 8047
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ANISE",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 8280
+  },
+  {
+    "Group": "CROPS",
+    "Item": "APPLE",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,25",
+    "Wfp": 622
+  },
+  {
+    "Group": "CROPS",
+    "Item": "APPLES",
+    "Typology": "DRIED FRUIT",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 6847
+  },
+  {
+    "Group": "CROPS",
+    "Item": "APRICOT",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,30",
+    "Wfp": 1287
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ARECA NUT",
+    "Typology": "NUTS SHELLED",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 11165
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ARTICHOKE",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": 818
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ASPARAGUS",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ASPARAGUS* (SUB-TYP)",
+    "Cfp": "0,83",
+    "Wfp": 2150
+  },
+  {
+    "Group": "CROPS",
+    "Item": "AVOCADO",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,54",
+    "Wfp": 1805
+  },
+  {
+    "Group": "CROPS",
+    "Item": "AVOCADO (I)",
+    "Typology": "FRUIT IMPORTED",
+    "Sub-typology": "-",
+    "Cfp": "1,09",
+    "Wfp": 1805
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BADIAN",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 8280
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BANANA",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,34",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BANANA (I)",
+    "Typology": "FRUIT IMPORTED",
+    "Sub-typology": "-",
+    "Cfp": "0,82",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BARLEY",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,48",
+    "Wfp": 1423
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BEAN",
+    "Typology": "LEGUMES",
+    "Sub-typology": "-",
+    "Cfp": "0,43",
+    "Wfp": 5053
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BEAN (fresh)",
+    "Typology": "LEGUMES FRESH",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": 516
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BEETROOT",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,25",
+    "Wfp": "272,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BLACKBERRY",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,64",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BLUEBERRY",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,78",
+    "Wfp": 845
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BRASSICAS",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 280
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BROCCOLI",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,57",
+    "Wfp": 336
+  },
+  {
+    "Group": "CROPS",
+    "Item": "BRUSSEL SPROUT",
+    "Typology": "VEGETABLES",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": 285
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CABAGGE",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "GREEN LEAFY VEGETABLES",
+    "Cfp": "0,23",
+    "Wfp": 280
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CAHSEW APPLE",
+    "Typology": "FRUIT",
+    "Sub-typology": "FRUIT (excluded citrus, wild berries and olives)",
+    "Cfp": "0,32",
+    "Wfp": 3793
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CAHSEW NUT",
+    "Typology": "NUTS SHELLED",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 14218
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CARDAMOM",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 34319
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CARROB",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,32",
+    "Wfp": "1506,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CARROT",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,24",
+    "Wfp": 195
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CASHEW NUT",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "1,38",
+    "Wfp": 11264
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CAULIFLOWER",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,31",
+    "Wfp": 285
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CELERY",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": "362,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CHERRY",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,46",
+    "Wfp": "1506,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CHERRY SOUR",
+    "Typology": "FRUIT",
+    "Sub-typology": "FRUIT (excluded citrus, wild berries and olives)",
+    "Cfp": "0,32",
+    "Wfp": 1411
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CHERRY SWEET",
+    "Typology": "FRUIT",
+    "Sub-typology": "FRUIT (excluded citrus, wild berries and olives)",
+    "Cfp": "0,32",
+    "Wfp": 1604
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CHESTNUT",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 2750
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CHICKPEA",
+    "Typology": "LEGUMES",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": 4177
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CHILLY",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 7365
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CHILLY FRESH",
+    "Typology": "VEGETABLES",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": 379
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CINNAMON",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 15526
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CITRUS",
+    "Typology": "FRUIT",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,34",
+    "Wfp": 457
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CLEMENTINE",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,34",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CLOVE",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 61205
+  },
+  {
+    "Group": "CROPS",
+    "Item": "COCONUT (I)",
+    "Typology": "FRUIT IMPORTED",
+    "Sub-typology": "-",
+    "Cfp": "1,07",
+    "Wfp": 1971
+  },
+  {
+    "Group": "CROPS",
+    "Item": "COCONUTS",
+    "Typology": "DRIED FRUIT",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 2093
+  },
+  {
+    "Group": "CROPS",
+    "Item": "COFFEE BEAN",
+    "Typology": "COFFEE (GREEN)",
+    "Sub-typology": "-",
+    "Cfp": "6,71",
+    "Wfp": 19928
+  },
+  {
+    "Group": "CROPS",
+    "Item": "COFFEE GREEN*",
+    "Typology": "COFFEE GREEN*",
+    "Sub-typology": "-",
+    "Cfp": "0,49",
+    "Wfp": 15897
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CORIANDER",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 8280
+  },
+  {
+    "Group": "CROPS",
+    "Item": "COWPEA",
+    "Typology": "LEGUMES",
+    "Sub-typology": "-",
+    "Cfp": "0,49",
+    "Wfp": 6906
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CRANBERRY",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,64",
+    "Wfp": 276
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CUCUMBER",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,27",
+    "Wfp": 353
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CUCUMBER (G)",
+    "Typology": "VEGETABLES HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "2,55",
+    "Wfp": 353
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CUCUMBER (g)",
+    "Typology": "VEGETABLES NOT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "1,18",
+    "Wfp": 353
+  },
+  {
+    "Group": "CROPS",
+    "Item": "CURRANT",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,64",
+    "Wfp": 499
+  },
+  {
+    "Group": "CROPS",
+    "Item": "DATE",
+    "Typology": "DRIED FRUIT",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": "2636,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "DATES",
+    "Typology": "DRIED FRUIT",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 2840
+  },
+  {
+    "Group": "CROPS",
+    "Item": "EGGPLANT",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,19",
+    "Wfp": 362
+  },
+  {
+    "Group": "CROPS",
+    "Item": "EGGPLANT (g)",
+    "Typology": "VEGETABLES NOT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "1,18",
+    "Wfp": 362
+  },
+  {
+    "Group": "CROPS",
+    "Item": "EXOTIC FRUIT (G)",
+    "Typology": "FRUIT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "2,88",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "EXOTIC FRUIT (I)",
+    "Typology": "FRUIT IMPORTED",
+    "Sub-typology": "-",
+    "Cfp": "1,07",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "FABA BEAN",
+    "Typology": "LEGUMES DRIED",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": 2018
+  },
+  {
+    "Group": "CROPS",
+    "Item": "FENNEL",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": "362,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "FENNEL SEEDS",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 8280
+  },
+  {
+    "Group": "CROPS",
+    "Item": "FIG",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,32",
+    "Wfp": 3350
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GARLIC",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,25",
+    "Wfp": 589
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GARLIC POWDER",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 2265
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GERKIN",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,21",
+    "Wfp": "362,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GERKIN (G)",
+    "Typology": "VEGETABLES HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "2,12",
+    "Wfp": 336
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GINGER",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 1657
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GOOSEBERRY",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,64",
+    "Wfp": 526
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GRAPES",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,31",
+    "Wfp": 608
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GREEN BEAN (fresh)",
+    "Typology": "LEGUMES",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": "555,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GREEN BEAN (fresh) (g)*",
+    "Typology": "LEGUMES NOT HEATED GREENHOUSE (green bean)",
+    "Sub-typology": "-",
+    "Cfp": "0,28",
+    "Wfp": "555,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "GUAVA",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,32",
+    "Wfp": 1800
+  },
+  {
+    "Group": "CROPS",
+    "Item": "HAZELNUT",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 11264
+  },
+  {
+    "Group": "CROPS",
+    "Item": "HAZELNUT SHELLED",
+    "Typology": "NUTS SHELLED",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 10515
+  },
+  {
+    "Group": "CROPS",
+    "Item": "HAZELNUT WITH SHELL",
+    "Typology": "NUTS WITH SHELL",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 5258
+  },
+  {
+    "Group": "CROPS",
+    "Item": "HEMPSEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 3685
+  },
+  {
+    "Group": "CROPS",
+    "Item": "HOP CONE",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 4065
+  },
+  {
+    "Group": "CROPS",
+    "Item": "HOP EXTRACT",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 16259
+  },
+  {
+    "Group": "CROPS",
+    "Item": "KIWI",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,49",
+    "Wfp": 514
+  },
+  {
+    "Group": "CROPS",
+    "Item": "KOLA NUT",
+    "Typology": "NUTS SHELLED",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 23391
+  },
+  {
+    "Group": "CROPS",
+    "Item": "LEMON",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,34",
+    "Wfp": 642
+  },
+  {
+    "Group": "CROPS",
+    "Item": "LENTIL",
+    "Typology": "LEGUMES",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": 5874
+  },
+  {
+    "Group": "CROPS",
+    "Item": "LETTUCE",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "GREEN LEAFY VEGETABLES",
+    "Cfp": "0,41",
+    "Wfp": 237
+  },
+  {
+    "Group": "CROPS",
+    "Item": "LETTUCE (G)",
+    "Typology": "VEGETABLES HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "2,67",
+    "Wfp": 237
+  },
+  {
+    "Group": "CROPS",
+    "Item": "LIME",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,34",
+    "Wfp": 642
+  },
+  {
+    "Group": "CROPS",
+    "Item": "LINSEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 5168
+  },
+  {
+    "Group": "CROPS",
+    "Item": "LONGABERRY",
+    "Typology": "FRUIT",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,64",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MACE",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 34319
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MAIZE",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,48",
+    "Wfp": 1191
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MAIZE GREEN",
+    "Typology": "VEGETABLES",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": 700
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MANDARIN",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,45",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MANGO",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,31",
+    "Wfp": 1855
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MANGOSTEEN",
+    "Typology": "FRUIT",
+    "Sub-typology": "FRUIT (excluded citrus, wild berries and olives)",
+    "Cfp": "0,32",
+    "Wfp": 1800
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MANIOC",
+    "Typology": "STARCHY TUBERS",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 564
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MELON",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,61",
+    "Wfp": "1506,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MELON (g)*",
+    "Typology": "FRUIT NOT HEATED GREENHOUSE* (melon)",
+    "Sub-typology": "-",
+    "Cfp": "1,43",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MILLET",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 4478
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MIXED NUTS",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 9063
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MULBERRY",
+    "Typology": "FRUIT",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,64",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MUSHROOM*",
+    "Typology": "MUSHROOM*",
+    "Sub-typology": "-",
+    "Cfp": "2,06",
+    "Wfp": ""
+  },
+  {
+    "Group": "CROPS",
+    "Item": "MUSTARD SEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 2809
+  },
+  {
+    "Group": "CROPS",
+    "Item": "NUTMEG",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 34319
+  },
+  {
+    "Group": "CROPS",
+    "Item": "OAT",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,67",
+    "Wfp": 1788
+  },
+  {
+    "Group": "CROPS",
+    "Item": "OKRA",
+    "Typology": "VEGETABLES",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": 576
+  },
+  {
+    "Group": "CROPS",
+    "Item": "OLIVES",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "OLIVES*",
+    "Cfp": "0,64",
+    "Wfp": 3015
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ONION",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,22",
+    "Wfp": 290
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ORANGE",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,30",
+    "Wfp": 654
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PALM NUT",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 2868
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PAPAYA",
+    "Typology": "FRUIT",
+    "Sub-typology": "FRUIT (excluded citrus, wild berries and olives)",
+    "Cfp": "0,32",
+    "Wfp": 460
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEA",
+    "Typology": "LEGUMES",
+    "Sub-typology": "-",
+    "Cfp": "0,45",
+    "Wfp": 1979
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEA (fresh)",
+    "Typology": "LEGUMES FRESH",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": 595
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEACH",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,39",
+    "Wfp": 910
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEANUT",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "0,83",
+    "Wfp": 2782
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEAR",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,27",
+    "Wfp": 922
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEPPER",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,65",
+    "Wfp": 379
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEPPER (G)",
+    "Typology": "VEGETABLES HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "3,73",
+    "Wfp": 379
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEPPER (PIPER SPP.)",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 7611
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEPPER (g)",
+    "Typology": "VEGETABLES NOT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "1,18",
+    "Wfp": 379
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PEPPERMINT",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 288
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PIGEON PEA",
+    "Typology": "LEGUMES DRIED",
+    "Sub-typology": "-",
+    "Cfp": "0,52",
+    "Wfp": 5494
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PINEAPPLE",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,28",
+    "Wfp": 255
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PINEAPPLE (I)",
+    "Typology": "FRUIT IMPORTED",
+    "Sub-typology": "-",
+    "Cfp": "0,55",
+    "Wfp": 255
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PISTACHIO",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "1,60",
+    "Wfp": 11363
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PLANTAIN",
+    "Typology": "FRUIT",
+    "Sub-typology": "FRUIT (excluded citrus, wild berries and olives)",
+    "Cfp": "0,32",
+    "Wfp": 1602
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PLUM",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,32",
+    "Wfp": 2180
+  },
+  {
+    "Group": "CROPS",
+    "Item": "POMEGRANATE",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,32",
+    "Wfp": "1506,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "POMEGRANATE (I)",
+    "Typology": "FRUIT IMPORTED",
+    "Sub-typology": "-",
+    "Cfp": "1,07",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "POMELO",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,34",
+    "Wfp": "654,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "POPPY SEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 2188
+  },
+  {
+    "Group": "CROPS",
+    "Item": "POTATO",
+    "Typology": "STARCHY TUBERS",
+    "Sub-typology": "-",
+    "Cfp": "0,24",
+    "Wfp": 555
+  },
+  {
+    "Group": "CROPS",
+    "Item": "PUMPKIN",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,24",
+    "Wfp": 336
+  },
+  {
+    "Group": "CROPS",
+    "Item": "QUINOA",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,97",
+    "Wfp": 1618
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RADISH",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,25",
+    "Wfp": "272,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RAISIN",
+    "Typology": "DRIED FRUIT",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": "2636,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RAISINS",
+    "Typology": "DRIED FRUIT",
+    "Sub-typology": "-",
+    "Cfp": "0,81",
+    "Wfp": 2433
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RAPE SEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": "3087,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RAPESEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 2271
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RASPBERRY",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,64",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RASPBERRY (G)",
+    "Typology": "FRUIT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "2,88",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RICE*",
+    "Typology": "RICE*",
+    "Sub-typology": "-",
+    "Cfp": "2,19",
+    "Wfp": 1597
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ROCKMELON",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,32",
+    "Wfp": "1506,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "RYE",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 1554
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SAFFRON",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 731000
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SESAM SEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 9371
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SHALLOT",
+    "Typology": "VEGETABLES",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,25",
+    "Wfp": 272
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SORGHUM",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 3048
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SOYBEAN",
+    "Typology": "LEGUMES",
+    "Sub-typology": "-",
+    "Cfp": "0,56",
+    "Wfp": 4615
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SPINACH",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "GREEN LEAFY VEGETABLES",
+    "Cfp": "0,34",
+    "Wfp": 292
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SQUASH",
+    "Typology": "VEGETABLES",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": 336
+  },
+  {
+    "Group": "CROPS",
+    "Item": "STARCHY ROOTS",
+    "Typology": "STARCHY TUBERS",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": "554,8"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "STRAWBERRY",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "WILD BERRIES",
+    "Cfp": "0,61",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "STRAWBERRY (G)",
+    "Typology": "FRUIT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "2,88",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "STRAWBERRY (I)",
+    "Typology": "FRUIT IMPORTED",
+    "Sub-typology": "-",
+    "Cfp": "1,07",
+    "Wfp": 413
+  },
+  {
+    "Group": "CROPS",
+    "Item": "STRING BEAN",
+    "Typology": "VEGETABLES",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,33",
+    "Wfp": 547
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SUNFLOWER SEED",
+    "Typology": "SEEDS",
+    "Sub-typology": "-",
+    "Cfp": "0,88",
+    "Wfp": 3366
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SWEDE",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,25",
+    "Wfp": "272,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "SWEET POTATO",
+    "Typology": "STARCHY TUBERS",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 383
+  },
+  {
+    "Group": "CROPS",
+    "Item": "TANGERIN",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "CITRUS FRUIT",
+    "Cfp": "0,34",
+    "Wfp": 748
+  },
+  {
+    "Group": "CROPS",
+    "Item": "TARO",
+    "Typology": "STARCHY TUBERS",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 606
+  },
+  {
+    "Group": "CROPS",
+    "Item": "TOMATO",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,45",
+    "Wfp": 41
+  },
+  {
+    "Group": "CROPS",
+    "Item": "TOMATO (G)",
+    "Typology": "VEGETABLES HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "2,43",
+    "Wfp": 41
+  },
+  {
+    "Group": "CROPS",
+    "Item": "TOMATO (g)",
+    "Typology": "VEGETABLES NOT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "0,91",
+    "Wfp": 41
+  },
+  {
+    "Group": "CROPS",
+    "Item": "TURNIP",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "ROOTS & BULBS",
+    "Cfp": "0,25",
+    "Wfp": 195
+  },
+  {
+    "Group": "CROPS",
+    "Item": "VANILLA BEAN",
+    "Typology": "SPICIES",
+    "Sub-typology": "-",
+    "Cfp": "0,84",
+    "Wfp": 126505
+  },
+  {
+    "Group": "CROPS",
+    "Item": "VEGETABLES",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,54",
+    "Wfp": "362,0"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "WALNUT",
+    "Typology": "NUTS",
+    "Sub-typology": "-",
+    "Cfp": "2,06",
+    "Wfp": 11264
+  },
+  {
+    "Group": "CROPS",
+    "Item": "WALNUT SHELLED",
+    "Typology": "NUTS SHELLED",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": "9172,5"
+  },
+  {
+    "Group": "CROPS",
+    "Item": "WALNUT WITH SHELL",
+    "Typology": "NUTS WITH SHELL",
+    "Sub-typology": "-",
+    "Cfp": "1,11",
+    "Wfp": 4918
+  },
+  {
+    "Group": "CROPS",
+    "Item": "WATERMELON",
+    "Typology": "FRUIT OPENFIELD",
+    "Sub-typology": "FRUIT OTHER",
+    "Cfp": "0,32",
+    "Wfp": 185
+  },
+  {
+    "Group": "CROPS",
+    "Item": "WHEAT",
+    "Typology": "GRAINS",
+    "Sub-typology": "-",
+    "Cfp": "0,57",
+    "Wfp": 1639
+  },
+  {
+    "Group": "CROPS",
+    "Item": "YAM",
+    "Typology": "STARCHY TUBERS",
+    "Sub-typology": "-",
+    "Cfp": "0,27",
+    "Wfp": 343
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ZUCCHINI",
+    "Typology": "VEGETABLES OPENFIELD",
+    "Sub-typology": "VEGETABLES (fruits, steems, flowers)",
+    "Cfp": "0,70",
+    "Wfp": 336
+  },
+  {
+    "Group": "CROPS",
+    "Item": "ZUCCHINI (g)",
+    "Typology": "VEGETABLES NOT HEATED GREENHOUSE",
+    "Sub-typology": "-",
+    "Cfp": "1,18",
+    "Wfp": 336
+  },
+  {
+    "Group": "FISHING",
+    "Item": "ALFONSINO",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "ANCHOVY",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "0,82",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "ANGLERFISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "BARNACLE",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "-",
+    "Cfp": "2,30",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "BLACK CARP",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 2555
+  },
+  {
+    "Group": "FISHING",
+    "Item": "CARP",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 2364
+  },
+  {
+    "Group": "FISHING",
+    "Item": "CATFISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "COD",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "3,08",
+    "Wfp": 2782
+  },
+  {
+    "Group": "FISHING",
+    "Item": "COD (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "3,03",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "COD FISH STICK",
+    "Typology": "FISH PROCESSED",
+    "Sub-typology": "-",
+    "Cfp": "2,12",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "CRUSTACEAN",
+    "Typology": "SHELLFISH* (crustacean)",
+    "Sub-typology": "CRUSTACEAN*",
+    "Cfp": "7,04",
+    "Wfp": 1974
+  },
+  {
+    "Group": "FISHING",
+    "Item": "CUTTLEFISH",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "CEPHALOPOD (SUB-TYP)",
+    "Cfp": "5,80",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "DIAMOND FISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "EEL",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "FISH MIXED",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "4,99",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "FISH STICK (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "FLATFISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "FLATHEAD",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "FLOUNDER",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 798
+  },
+  {
+    "Group": "FISHING",
+    "Item": "FORK BEARD",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "GILSTHEAD SEABREAM",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "3543,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "GRASS CARP",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 2229
+  },
+  {
+    "Group": "FISHING",
+    "Item": "GROUPER",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 360
+  },
+  {
+    "Group": "FISHING",
+    "Item": "HADDOCK",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "HADDOCK (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "HAKE",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "10,40",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "HAKE FISH STICK",
+    "Typology": "FISH PROCESSED",
+    "Sub-typology": "-",
+    "Cfp": "2,12",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "HERRING",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "1,24",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "HERRING (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "1,30",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "KRILL",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "-",
+    "Cfp": "5,67",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "LING",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "LOBSTER",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "-",
+    "Cfp": "20,25",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MACKEREL",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "1,80",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MACKEREL (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MAJOR CARP",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 3808
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MAKEREL FISH STICK",
+    "Typology": "FISH PROCESSED",
+    "Sub-typology": "-",
+    "Cfp": "2,12",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MANDARIN FISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 88
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MEGRIM",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MILKFISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2471,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MIXED FISH (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "MUSSELS",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "BIVALVES* (SUB-TYP) (Mussels)",
+    "Cfp": "0,46",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "OCTOPUS",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "CEPHALOPOD (SUB-TYP)",
+    "Cfp": "5,80",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "OCTOPUS (F)",
+    "Typology": "SHELLFISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "11,47",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "PANGASIID",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "1909,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "PILCHARD",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "PLAICE",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "POLLOCK",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "POLLOCK (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "POLLOCK STICK (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "POMFRET",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "PORBEAGLE",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "PRAWNS GIANT",
+    "Typology": "SHELLFISH* (crustacean)",
+    "Sub-typology": "CRUSTACEAN*",
+    "Cfp": "7,04",
+    "Wfp": 1738
+  },
+  {
+    "Group": "FISHING",
+    "Item": "PRAWNS/SHRIMPS",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "CRUSTACEAN* (SUB-TYP) (Prawns/Shrimps)",
+    "Cfp": "7,04",
+    "Wfp": "1856,0"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "PRAWNS/SHRIMPS (F)",
+    "Typology": "SHELLFISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "15,07",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "RED DRUM",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 2202
+  },
+  {
+    "Group": "FISHING",
+    "Item": "RHOMBUS",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "ROCK FISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SALMON",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "3,37",
+    "Wfp": 2193
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SALMON (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "1,61",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SARDINE",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "0,90",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SEA-BASS",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "3,60",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SEABASS",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 6524
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SHARK",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SILVERBARB",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2861,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SOLE",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SOLE (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SQUID",
+    "Typology": "SHELLFISH",
+    "Sub-typology": "CEPHALOPOD (SUB-TYP)",
+    "Cfp": "5,80",
+    "Wfp": 1856
+  },
+  {
+    "Group": "FISHING",
+    "Item": "STURGEON",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 13420
+  },
+  {
+    "Group": "FISHING",
+    "Item": "SWARDFISH",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "TILAPIA",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 2263
+  },
+  {
+    "Group": "FISHING",
+    "Item": "TROUT",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "4,20",
+    "Wfp": 2188
+  },
+  {
+    "Group": "FISHING",
+    "Item": "TROUT (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,20",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "TUNA",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "3,68",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "TUNA (F)",
+    "Typology": "FISH FROZEN",
+    "Sub-typology": "-",
+    "Cfp": "2,64",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "TUNA IN CAN",
+    "Typology": "FISH PROCESSED",
+    "Sub-typology": "-",
+    "Cfp": "2,10",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "TURBOT",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 1504
+  },
+  {
+    "Group": "FISHING",
+    "Item": "WHITING",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": "2313,5"
+  },
+  {
+    "Group": "FISHING",
+    "Item": "WUCHANG BREAM",
+    "Typology": "FISH",
+    "Sub-typology": "-",
+    "Cfp": "5,19",
+    "Wfp": 10550
+  }
+]
